@@ -5,9 +5,9 @@ A custom Flutter widget that displays temperature in an elegant semi-circular ga
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/celsius.png" alt="Celsius Mode" width="250"/>
-  <img src="screenshots/animation.png" alt="Animation" width="250"/>
-  <img src="screenshots/fahrenheit.png" alt="Fahrenheit Mode" width="250"/>
+  <img src="ScreenShots/C mode .png" alt="Celsius Mode" width="250"/>
+  <img src="ScreenShots/animation .png" alt="Animation" width="250"/>
+  <img src="ScreenShots/F mode.png" alt="Fahrenheit Mode" width="250"/>
 </div>
 
 ## Features
@@ -58,14 +58,7 @@ The widget supports various customization options:
 - `foregroundColor`: Color of the temperature indicator
 - `textStyle`: Styling for the temperature text
 
-## Example App
-
-Check out the [example](example/) directory for a complete sample application using this widget.
 
 ## Contributing
 
 Contributions are welcome! If you find a bug or want to add a feature, please feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
